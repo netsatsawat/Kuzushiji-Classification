@@ -20,6 +20,9 @@ __Kzushiji-Kanji__ is an imbalanced dataset of total 3832 Kanji characters (64x6
 <hr>
 This part consists of the Jupyter Notebook's tutorial for implementing various dimensional reduction techniques on the high dimension data and building the convolutional neural network from scratch using Keras. This notebook only used the Kuzushiji-MNIST data set.
 
+[Link to the notebook](https://github.com/netsatsawat/Kuzushiji-Classification/blob/master/code/Kuzushiji-MNIST-Classification.ipynb)
+
+
 ![cnn-example](https://github.com/netsatsawat/Kuzushiji-Classification/raw/master/img/CNN-Architecture-from-AlexNet.png)
 
 My two articles in medium.com are directly referenced toward this notebook.
